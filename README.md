@@ -23,9 +23,9 @@ The testing environment was developed and tested on python3.7 and windows10 mach
 
 ### Installing
 All dependent python packages are defined in requirement.txt file.
-'''
+```
 pip install -r requirements.txt
-'''
+```
 ### Running the Test
 
 python ApiHelper.py
